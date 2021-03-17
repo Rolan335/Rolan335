@@ -9,5 +9,5 @@ Skills:
 8. Working with git / github / github pages.
 9. Working with PSD / Figma layouts.
 10. Working with svg.
-11. Understanding the correct project file system.
+11. Making the correct project file system.
 12. SCSS preprocessor. 
